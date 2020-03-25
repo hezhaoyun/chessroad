@@ -1,16 +1,5 @@
-# chessroad
+# 网易云课堂
+# 《Flutter 中国象棋，从0到上架》
+# 课程源码
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[课程地址](https://study.163.com/course/editCourse.htm?providerId=480000002203651&courseId=1209825827&status=2#/courseEdit/baseInfo)
