@@ -1,0 +1,50 @@
+name: chessroad
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  audioplayers: ^0.14.0
+  path_provider: ^1.6.1
+  package_info: ^0.4.0+16
+  uuid: ^2.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/logo.png
+    - images/logo-mini.png
+    - images/mei.png
+    - images/zhu.png
+    
+    - audios/bg_music.mp3
+    - audios/capture.mp3
+    - audios/check.mp3
+    - audios/click.mp3
+    - audios/regret.mp3
+    - audios/draw.mp3
+    - audios/tips.mp3
+    - audios/invalid.mp3
+    - audios/lose.mp3
+    - audios/move.mp3
+    - audios/win.mp3
+
+    - assets/book.dat
+
+  fonts:
+    - family: QiTi
+      fonts:
+        - asset: fonts/qiti.ttf
+

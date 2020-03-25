@@ -1,0 +1,3 @@
+/Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/x86/CMakeFiles/engine.dir

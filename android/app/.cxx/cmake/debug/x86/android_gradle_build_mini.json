@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/zhaoyun/writing/chessroad/android/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/zhaoyun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "engine-Debug-x86": {
+      "artifactName": "engine",
+      "buildCommand": "/Users/zhaoyun/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/x86 --target engine",
+      "abi": "x86",
+      "output": "/Users/zhaoyun/writing/chessroad/build/app/intermediates/cmake/debug/obj/x86/libengine.so"
+    }
+  }
+}
