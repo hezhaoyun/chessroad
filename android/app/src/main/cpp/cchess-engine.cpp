@@ -7,9 +7,9 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <string.h>
-#include "engine/eleeye.h"
-#include "engine/engine-state.h"
-#include "engine/command-channel.h"
+#include "../../../../../eleeye/eleeye.h"
+#include "../../../../../eleeye/engine-state.h"
+#include "../../../../../eleeye/command-channel.h"
 
 extern "C" {
 
