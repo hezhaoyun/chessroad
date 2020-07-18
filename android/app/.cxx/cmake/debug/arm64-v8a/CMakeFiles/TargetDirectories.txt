@@ -1,3 +1,0 @@
-/Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/Users/zhaoyun/writing/chessroad/android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/engine.dir
