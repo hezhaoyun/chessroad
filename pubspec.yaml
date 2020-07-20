@@ -29,17 +29,17 @@ flutter:
     - images/mei.png
     - images/zhu.png
     
-    - audios/bg_music.mp3
-    - audios/capture.mp3
-    - audios/check.mp3
-    - audios/click.mp3
-    - audios/regret.mp3
-    - audios/draw.mp3
-    - audios/tips.mp3
-    - audios/invalid.mp3
-    - audios/lose.mp3
-    - audios/move.mp3
-    - audios/win.mp3
+    - assets/audios/bg_music.mp3
+    - assets/audios/capture.mp3
+    - assets/audios/check.mp3
+    - assets/audios/click.mp3
+    - assets/audios/regret.mp3
+    - assets/audios/draw.mp3
+    - assets/audios/tips.mp3
+    - assets/audios/invalid.mp3
+    - assets/audios/lose.mp3
+    - assets/audios/move.mp3
+    - assets/audios/win.mp3
 
     - assets/book.dat
 

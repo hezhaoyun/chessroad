@@ -8,19 +8,19 @@ add_library( # Sets the name of the library.
 
         # Provides a relative path to your source file(s).
         src/main/cpp/cchess-engine.cpp
-        src/main/cpp/engine/command-channel.cpp
-        src/main/cpp/engine/command-queue.cpp
-        src/main/cpp/engine/book.cpp
-        src/main/cpp/engine/eleeye.cpp
-        src/main/cpp/engine/evaluate.cpp
-        src/main/cpp/engine/genmoves.cpp
-        src/main/cpp/engine/hash.cpp
-        src/main/cpp/engine/movesort.cpp
-        src/main/cpp/engine/position.cpp
-        src/main/cpp/engine/preeval.cpp
-        src/main/cpp/engine/pregen.cpp
-        src/main/cpp/engine/search.cpp
-        src/main/cpp/engine/ucci.cpp)
+        ../../eleeye/command-channel.cpp
+        ../../eleeye/command-queue.cpp
+        ../../eleeye/book.cpp
+        ../../eleeye/eleeye.cpp
+        ../../eleeye/evaluate.cpp
+        ../../eleeye/genmoves.cpp
+        ../../eleeye/hash.cpp
+        ../../eleeye/movesort.cpp
+        ../../eleeye/position.cpp
+        ../../eleeye/preeval.cpp
+        ../../eleeye/pregen.cpp
+        ../../eleeye/search.cpp
+        ../../eleeye/ucci.cpp)
 
 
 find_library( # Sets the name of the path variable.

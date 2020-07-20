@@ -32,8 +32,8 @@
 #include "book.h"
 #endif
 #include "movesort.h"
-#include "search.h"
 #include "eleeye.h"
+#include "search.h"
 
 const int IID_DEPTH = 2;         // 内部迭代加深的深度
 const int SMP_DEPTH = 6;         // 并行搜索的深度
